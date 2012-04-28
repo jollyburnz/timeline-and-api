@@ -1,0 +1,40 @@
+{
+    "timeline":
+    {
+        "headline":"The Main Timeline Headline Goes here",
+        "type":"default",
+        "startDate":"1888",
+        "text":"<p>Intro body text goes here, some HTML is ok</p>",
+        "asset":
+        {
+            "media":"https://si0.twimg.com/profile_images/52951153/shirt02.png",
+            "credit":"Lin's Laundromat",
+            "caption":"Caption text goes here"
+        },
+        "date": [
+            {
+                "startDate":"2011,12,10",
+                "endDate":"2011,12,11",
+                "headline":"Headline Goes Here",
+                "text":"<p>Body text goes here, some HTML is OK</p>",
+                "asset":
+                {
+                    "media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
+                }
+            },
+            {
+                "startDate":"2011,13,10",
+                "headline":"Newer",
+                "text":"<p>Body text goes here, some HTML is OK</p>",
+                "asset":
+                {
+                    "media":"https://twitter.com/#!/reggiewatts/status/193763134610223104",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
+                }
+            }
+        ]
+    }
+}
